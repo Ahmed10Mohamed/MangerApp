@@ -1,0 +1,31 @@
+المفروض في task ارسله ايميل بس لاني بتاخر في الخارج فبتالي برسله ليك هنا وانت اذا خلصت ارسله على الايميل
+Write a php program that covered the flowing points:
+Our task is a simple tasks manager app.
+Users from apis can add many groups and each group contain a list of tasks and admin user from web can view list of added tasks.
+- Web Admin panel 
+1. Admin can login.
+2. Only admins can show table of users tasks and filter them by group and user.
+
+Note: You can use any simple html template.
+
+- web service apis for mobile app
+1. Api to login
+2. Api to add new group
+3. Api to delete group
+4. Api to add task to group
+5. Api to delete task
+6. Api to show all tasks with pagination.
+7. Api to show one task.
+
+Group:
+- Name
+
+Task table:
+- Title
+- Description
+- File (images types)
+
+If you see this task will need more than 7 hours to complete it or if you have any note on task please contact us.
+
+
+send your work to: mkatteb@badee.com.sa
